@@ -1,0 +1,122 @@
+[
+    {
+        "image": "North_Indian_4.jpeg",
+        "path": "north-indian",
+        "price": 250,
+        "desc": "A diverse assortment of traditional North Indian dishes."
+    },
+    {
+        "image": "Pizza.jpeg",
+        "path": "pizza",
+        "price": 400,
+        "desc": "Delicious Italian pizza topped with cheese and various toppings."
+    },
+    {
+        "image": "Noodles.jpeg",
+        "path": "noodles",
+        "price": 150,
+        "desc": "Classic stir-fried noodles with vegetables and sauces."
+    },
+    {
+        "image": "Pasta.jpeg",
+        "path": "pasta",
+        "price": 300,
+        "desc": "Creamy and flavorful Italian pasta with a variety of sauces."
+    },
+    {
+        "image": "Paratha.jpeg",
+        "path": "paratha",
+        "price": 100,
+        "desc": "Buttery and flaky flatbread served with pickles or yogurt."
+    },
+    {
+        "image": "Biryani_2.jpeg",
+        "path": "biryani",
+        "price": 350,
+        "desc": "Fragrant rice cooked with spices and tender pieces of meat or vegetables."
+    },
+    {
+        "image": "Burger.jpeg",
+        "path": "burger",
+        "price": 200,
+        "desc": "Juicy burger with a variety of fillings and fresh veggies."
+    },
+    {
+        "image": "Cakes.jpeg",
+        "path": "cakes",
+        "price": 450,
+        "desc": "Soft, spongy cakes with various flavors and frosting."
+    },
+    {
+        "image": "Chinese.jpeg",
+        "path": "chinese",
+        "price": 300,
+        "desc": "Authentic Chinese dishes, including stir-fries and fried rice."
+    },
+    {
+        "image": "Chole_Bature.jpeg",
+        "path": "chole-bature",
+        "price": 180,
+        "desc": "Spicy chickpeas served with fried puffed bread."
+    },
+    {
+        "image": "Dosa.jpeg",
+        "path": "dosa",
+        "price": 120,
+        "desc": "Crispy, thin South Indian crepe served with chutney and sambar."
+    },
+    {
+        "image": "Gulab_Jamun.jpeg",
+        "path": "gulab-jamun",
+        "price": 100,
+        "desc": "Sweet syrup-soaked deep-fried dough balls."
+    },
+    {
+        "image": "Ice_Creams.jpeg",
+        "path": "ice-creams",
+        "price": 150,
+        "desc": "Creamy, rich ice creams in a variety of flavors."
+    },
+    {
+        "image": "Idli.jpeg",
+        "path": "idli",
+        "price": 80,
+        "desc": "Steamed rice cakes served with chutney and sambar."
+    },
+    {
+        "image": "Khichdi.jpeg",
+        "path": "khichdi",
+        "price": 130,
+        "desc": "Comforting rice and lentil dish, cooked with mild spices."
+    },
+    {
+        "image": "Poori.jpeg",
+        "path": "poori",
+        "price": 90,
+        "desc": "Fried, puffed Indian bread served with a side of curry."
+    },
+    {
+        "image": "Pure_Veg.jpeg",
+        "path": "pure-veg",
+        "price": 200,
+        "desc": "Delicious vegetarian dishes with a variety of flavors."
+    },
+    {
+        "image": "Rolls.jpeg",
+        "path": "rolls",
+        "price": 150,
+        "desc": "Stuffed flatbread rolls with spiced fillings of your choice."
+    },
+    {
+        "image": "Salad.jpeg",
+        "path": "salad",
+        "price": 120,
+        "desc": "Fresh vegetable salads with a light dressing."
+    },
+    {
+        "image": "South_Indian_4.jpeg",
+        "path": "south-indian",
+        "price": 250,
+        "desc": "Flavorful South Indian dishes with coconut-based curries and chutneys."
+    }
+]
