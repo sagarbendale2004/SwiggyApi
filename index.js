@@ -40,7 +40,7 @@ app.get("/categories", (req, res) => {
 });
 
 app.get("/top-restaurant-chains", (req, res) => {
-  const filePath = path.join(__dirname, "Data/restaurantChains.json");
+  const filePath = path.join(__dirname, "Data/restaurentChains.json");
 
   // Read the file
   fs.readFile(filePath, "utf8", (err, data) => {
