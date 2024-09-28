@@ -20,7 +20,7 @@ app.use(express.static("public"));
 app.get("/categories", (req, res) => {
   const filePath = path.join(__dirname, "Data/category.json");
 
-  // Read the file
+  // Read file
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
       console.error("Error reading file:", err);
