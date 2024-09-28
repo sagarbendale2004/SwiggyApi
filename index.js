@@ -63,7 +63,7 @@ app.get("/top-restaurant-chains", (req, res) => {
 
 // Endpoint to get data from recommended.json
 app.get("/recommended", (req, res) => {
-  const filePath = path.join(__dirname, "Data/recommended.json");
+  const filePath = path.join(__dirname, "Data/Recommended.json");
 
   // Read the file
   fs.readFile(filePath, "utf8", (err, data) => {
