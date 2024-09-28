@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const port = 8000;
+const port = process.env.PORT || 8000;
 
 // Middleware to parse JSON bodies
 app.use(express.json());
@@ -40,7 +40,7 @@ app.get("/categories", (req, res) => {
 });
 
 app.get("/top-restaurant-chains", (req, res) => {
-  const filePath = path.join(__dirname, "Data/restaurentChains.json");
+  const filePath = path.join(__dirname, "Data/restaurantChains.json");
 
   // Read the file
   fs.readFile(filePath, "utf8", (err, data) => {
@@ -62,7 +62,7 @@ app.get("/top-restaurant-chains", (req, res) => {
 });
 
 // Endpoint to get data from recommended.json
-app.get("/Recommended", (req, res) => {
+app.get("/recommended", (req, res) => {
   const filePath = path.join(__dirname, "Data/recommended.json");
 
   // Read the file
